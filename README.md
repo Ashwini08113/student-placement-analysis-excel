@@ -1,4 +1,4 @@
-screenshot dashboard.png)C:\Users\Ashwi\OneDrive\Pictures\Screenshots
+
 # 📊 Placement Success Analysis Dashboard
 
 ## 📌 Project Overview
@@ -123,7 +123,7 @@ Some important insights derived from the dashboard:
 
 ## 📷 Dashboard Preview
 
-
+"C:\Users\Ashwi\OneDrive\Pictures\Screenshots\dashboard.png"
 
 
 ---
