@@ -29,12 +29,16 @@ This project demonstrates **data analysis, data visualization, and dashboard dev
 The dataset contains student placement related attributes such as:
 
 * Student ID
-* Department
-* CGPA
-* Internship Experience
+* College Tier
+* CGPA Category
+* Skill Category
+* Internship Count
 * Placement Status
-* Hiring Company
-* Salary Package
+* Salary Package (LPA)
+* Gender
+* Lifestyle Balance
+* Study Hours
+* Extracurricular Score
 
 The data was analyzed to understand **patterns affecting student placements**.
 
@@ -56,45 +60,29 @@ Interactive **Slicers** allow users to dynamically filter and explore the data.
 ## 📈 Dashboard Visualizations
 
 The dashboard includes multiple charts to analyze placement trends:
-
 * 1️⃣ Placement Distribution by College Tier
-
 Compares the number of placed students across Tier 1, Tier 2, and Tier 3 colleges.
-
 * 2️⃣ Impact of Internships on Student Placements
-
 Shows how internship experience affects placement chances.
-
 * 3️⃣ Placement Count by Skill Level
-
 Analyzes placement outcomes for students with High, Medium, and Low skill levels.
-
 * 4️⃣ Placement Distribution by CGPA Category
-
 Displays placement distribution among:
 
 Highly Employable
-
 Moderately Employable
-
 Needs Improvement
-
 * 5️⃣ Average Salary Comparison by Gender
-
 Compares the average salary package offered to male and female students.
 
 ---
 ## 📊 Dashboard Key Metrics
 
 The dashboard highlights important placement indicators:
-
-Total Students: 98,872
-
-Placed Students: 53,800
-
-Overall Placement Rate: 54%
-
-Average Salary Package: 13.32 LPA
+* Total Students: 98,872
+* Placed Students: 53,800
+* Overall Placement Rate: 54%
+* Average Salary Package: 13.32 LPA
 
 These KPIs help quickly understand the placement performance.
 
@@ -102,13 +90,9 @@ These KPIs help quickly understand the placement performance.
 ## 🎛 Interactive Dashboard Features
 
 The dashboard includes slicers (filters) that allow users to interact with the data:
-
 * Skill Category Filter
-
 * College Tier Filter
-
 * CGPA Category Filter
-
 These slicers dynamically update charts and help users explore placement trends more effectively.
 
 ---
