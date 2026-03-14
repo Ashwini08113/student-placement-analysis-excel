@@ -73,8 +73,8 @@ Analyzes placement outcomes for students with High, Medium, and Low skill levels
   
 Displays placement distribution among:
 
- Highly Employable
- Moderately Employable
+ Highly Employable,
+ Moderately Employable,
  Needs Improvement
 * 5️⃣ Average Salary Comparison by Gender
   
