@@ -1,4 +1,4 @@
-!C:\Users\Ashwi\OneDrive\Pictures\Screenshots(screenshot dashboard.png)
+screenshot dashboard.png)C:\Users\Ashwi\OneDrive\Pictures\Screenshots
 # 📊 Placement Success Analysis Dashboard
 
 ## 📌 Project Overview
