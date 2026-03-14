@@ -53,6 +53,35 @@ The Excel dashboard provides the following insights:
 Interactive **Slicers** allow users to dynamically filter and explore the data.
 
 ---
+📈 Dashboard Visualizations
+
+The dashboard includes multiple charts to analyze placement trends:
+
+1️⃣ Placement Distribution by College Tier
+
+Compares the number of placed students across Tier 1, Tier 2, and Tier 3 colleges.
+
+2️⃣ Impact of Internships on Student Placements
+
+Shows how internship experience affects placement chances.
+
+3️⃣ Placement Count by Skill Level
+
+Analyzes placement outcomes for students with High, Medium, and Low skill levels.
+
+4️⃣ Placement Distribution by CGPA Category
+
+Displays placement distribution among:
+
+Highly Employable
+
+Moderately Employable
+
+Needs Improvement
+
+5️⃣ Average Salary Comparison by Gender
+
+Compares the average salary package offered to male and female students.
 
 ## 📊 Pivot Table Analysis
 
